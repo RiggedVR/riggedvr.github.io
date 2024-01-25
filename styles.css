@@ -80,7 +80,17 @@ body{
 }
 
 .fixed-bg-untangled{
-    background-image: url(Images/UntangledAnnouncementHeader.png);
+    background-image: url(Images/SlothsInSpace.png);
+    min-height: 700px;
+    background-attachment: fixed;
+    background-position: bottom;
+    background-repeat: no-repeat;
+    background-size: contain;
+    box-shadow: 0px 0px 24px 2px black;
+}
+
+.fixed-bg-sloths{
+    background-image: url(Images/);
     min-height: 700px;
     background-attachment: fixed;
     background-position: bottom;
