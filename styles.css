@@ -80,7 +80,7 @@ body{
 }
 
 .fixed-bg-untangled{
-    background-image: url(Images/SlothsInSpace.png);
+    background-image: url(Images/UntangledAnnouncementHeader.png);
     min-height: 700px;
     background-attachment: fixed;
     background-position: bottom;
