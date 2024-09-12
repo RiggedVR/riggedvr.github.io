@@ -79,7 +79,6 @@ body{
     box-shadow: 0px 0px 24px 2px black;
 }
 
-
 .fixed-bg-forcestop{
     background-image: url(Images/ForceStopHero.png);
     min-height: 700px;
@@ -144,19 +143,6 @@ body{
     padding: 20px;
 }
 
-ul{
-    background-color: #24122E;
-    list-style-type: none;
-    margin: 28px;
-    padding: 28px;
-}
-
-li{
-    display:inline;
-    font-size: 24;
-    padding: 24px;
-}
-
 a{
     color: cyan;
     transition-duration: 0.3s;
@@ -167,6 +153,14 @@ a:hover{
     color:white;
     transition-duration: 0.3s;
     text-shadow: 4px 4px 12px #000000;
+}
+
+li{
+    text-align: left
+}
+
+address{
+    text-align: left
 }
 
 footer{
