@@ -90,6 +90,16 @@ body{
     box-shadow: 0px 0px 24px 2px black;
 }
 
+.fixed-bg-octogames{
+    background-image: url(Images/OctoGamesLandscape.png);
+    min-height: 700px;
+    background-attachment: fixed;
+    background-position: bottom;
+    background-repeat: no-repeat;
+    background-size: contain;
+    box-shadow: 0px 0px 24px 2px black;
+}
+
 .fixed-bg-sloths{
     background-image: url(Images/SIS_Landscape.png);
     min-height: 700px;
